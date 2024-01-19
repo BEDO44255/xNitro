@@ -1,5 +1,5 @@
 * ## 🗯️ Informations
-    > This program use the partnership event between OperaGX & Discord for generate Nitros promotion Codes which offers to you a month of free nitro boost
+    > This program use the partnership event between OperaGX & Discord for generate Nitros promotion Codes which offers to you a month of free nitro boost , 
     > Promotions codes only works when you never buyed a nitro on your account and can be used one time
 
 * ## 🌠 Usage
