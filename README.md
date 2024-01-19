@@ -12,5 +12,5 @@
     [] Make the code more beautiful
 
 * ## ⚠️ Disclaimer
-    *Use this program for educationnal purpose only*
+    *Use this program for educationnal purpose only*<br>
     *i decline all the responsabilities of any illegal usage of my program*
