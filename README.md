@@ -1,6 +1,6 @@
 * ## 🗯️ Informations
-    > This program use the partnership event between OperaGX & Discord for generate Nitros promotion Codes which offers to you a month of free nitro boost<br>
-    > Nb : Promotions codes only works when you never buyed a nitro on your account and can be used one time
+    > This program use the partnership event between OperaGX & Discord for generate Nitros promotion Codes which offers to you a month of free nitro boost
+    > Promotions codes only works when you never buyed a nitro on your account and can be used one time
 
 * ## 🌠 Usage
     + First of all launch `setup.bat` which install all the required module
