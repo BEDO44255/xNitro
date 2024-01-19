@@ -8,8 +8,8 @@
     + Enjoy !!
 
 * ## 💡 Todo
-    - [] Improve the speed of generation <br>
-    - [] Make the code more beautiful
+    - [ ] Improve the speed of generation <br>
+    - [ ] Make the code more beautiful
 
 * ## ⚠️ Disclaimer
     *Use this program for educationnal purpose only*<br>
